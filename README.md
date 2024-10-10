@@ -1,4 +1,8 @@
 # AI_Chatbot
+Author: Fatima Khalid Awan <br>
+Contact Email: fkhalidawan@gmail.com <br>
+Linkedin: linkedin.com/in/fatima-khalid-awan-8086a5318 <be>
+
 This project demonstrates a simple, interactive AI-powered chatbot using the Together AI API and Python. The chatbot leverages the "Meta Llama 3.2-11B Vision Instruct Turbo" model to generate intelligent responses to user queries in real time. <br>
 ## Key Features: <br>
 #### 1. Real-time Conversation: <br> 
