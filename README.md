@@ -1,8 +1,8 @@
 # AI_Chatbot
 Author: Fatima Khalid Awan <br>
-Contact Email: fkhalidawan@gmail.com <br>
-Linkedin: linkedin.com/in/fatima-khalid-awan-8086a5318 <be>
-
+Email: fkhalidawan@gmail.com <br>
+Linkedin: [Fatima Khalid Awan](linkedin.com/in/fatima-khalid-awan-8086a5318) <br>
+## Overview:
 This project demonstrates a simple, interactive AI-powered chatbot using the Together AI API and Python. The chatbot leverages the "Meta Llama 3.2-11B Vision Instruct Turbo" model to generate intelligent responses to user queries in real time. <br>
 ## Key Features: <br>
 #### 1. Real-time Conversation: <br> 
@@ -22,5 +22,6 @@ This project demonstrates a simple, interactive AI-powered chatbot using the Tog
 1. Install the required dependencies. <br>
 2. Obtain an API key from Together AI. <br>
 3. Clone the repository and set up your environment. <br>
-4. Run the chatbot and start chatting by entering your prompt. <br>
+4. Run the chatbot and start chatting by entering your prompt. <be>
+
 This chatbot can be adapted for various use cases, from customer service automation to personal assistant applications.
