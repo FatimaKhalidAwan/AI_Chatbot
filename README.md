@@ -1,5 +1,5 @@
 # AI_Chatbot
-This project demonstrates a simple, interactive AI-powered chatbot using the Together AI API and Python. The chatbot leverages the Meta Llama 3.2-11B Vision Instruct Turbo model to generate intelligent responses to user queries in real time. <br>
+This project demonstrates a simple, interactive AI-powered chatbot using the Together AI API and Python. The chatbot leverages the "Meta Llama 3.2-11B Vision Instruct Turbo" model to generate intelligent responses to user queries in real time. <br>
 ## Key Features: <br>
 #### 1. Real-time Conversation: <br> 
   Users can interact with the AI model by sending prompts and receiving detailed responses. <br>
